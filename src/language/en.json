@@ -1,0 +1,13 @@
+{
+  "translations": {
+    "login": "Login",
+    "logout": "Logout",
+    "htmlTitle": "Edenia Web App Boilerplate",
+    "headerTitle": "Secondary Title",
+    "lightMode": "Light Mode",
+    "darkMode": "Dark Mode"
+  },
+  "homeRoute": {
+    "welcomeMessage": "Welcome to Edenia Webapp Boilerplate"
+  }
+}
